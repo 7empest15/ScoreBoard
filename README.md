@@ -6,3 +6,5 @@ To configure it, please go to config.yml and enter the desired information. Plea
 
 
 Tested version: 1.12.X / 1.13.X / 1.14.X / 1.15.X
+
+For the bug report, please contact me on discord : 7empest15#6666
